@@ -3,9 +3,7 @@ import { carrinhoReducer } from "../reducers/carrinhoReducer";
 
 export const CarrinhoContext = createContext();
 CarrinhoContext.displayName = "Carrinho";
-
 const estadoInicial = [];
-
 export const CarrinhoProvider = ({ children }) => {
     const [carrinho, dispatch] = useReducer(carrinhoReducer, estadoInicial);
     const [quantidade, setQuantidade] = useState(0);
