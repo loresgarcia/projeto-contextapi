@@ -30,7 +30,7 @@ const BarraNavegacao = () => {
               <CampoTexto
                 className="me-2"
                 type="search"
-                placeholder="Digite o nome do produto"
+                placeholder="O que está buscando?"
                 aria-label="Pesquisar"
               />
               <Botao type="submit">Pesquisar</Botao>
