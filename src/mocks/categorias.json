@@ -1,37 +1,37 @@
 [
   {
     "id": 1,
-    "src": "/assets/images/categorias/categoria-fantasia.png",
+    "src": "/assets/images/categorias/categoria-fantasia.svg",
     "alt": "box de livro de fantasia",
     "descricao": "Fantasia"
   },
   {
     "id": 2,
-    "src": "/assets/images/categorias/categoria-misterio.png",
+    "src": "/assets/images/categorias/categoria-misterio.svg",
     "alt": "box de livro de mistério e suspense",
     "descricao": "Mistério e Suspense"
   },
   {
     "id": 3,
-    "src": "/assets/images/categorias/categoria-romance.png",
+    "src": "/assets/images/categorias/categoria-romance.svg",
     "alt": "box de livro de romance",
     "descricao": "Romance"
   },
   {
     "id": 4,
-    "src": "/assets/images/categorias/categoria-biografia.png",
+    "src": "/assets/images/categorias/categoria-biografia.svg",
     "alt": "box de livro de biografia",
     "descricao": "Biografia"
   },
   {
     "id": 5,
-    "src": "/assets/images/categorias/categoria-arte.png",
+    "src": "/assets/images/categorias/categoria-arte.svg",
     "alt": "box de livro de arte e fotografia.",
     "descricao": "Arte e fotografia"
   },
   {
     "id": 6,
-    "src": "/assets/images/categorias/categoria-culinaria.png",
+    "src": "/assets/images/categorias/categoria-culinaria.svg",
     "alt": "box de livro de culinária",
     "descricao": "Culinária"
   }
