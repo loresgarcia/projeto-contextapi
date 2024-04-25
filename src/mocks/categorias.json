@@ -1,38 +1,38 @@
 [
   {
     "id": 1,
-    "src": "/assets/images/categorias/categoria-camiseta.png",
-    "alt": "Camiseta masculina de manga na cor verde, com bolso, com detalhe vermelho.",
-    "descricao": "Camisetas"
+    "src": "/assets/images/categorias/categoria-fantasia.png",
+    "alt": "box de livro de fantasia",
+    "descricao": "Fantasia"
   },
   {
     "id": 2,
-    "src": "/assets/images/categorias/categoria-bolsa.png",
-    "alt": "Bolsa feminina de couro na cor marrom, com cortes quadrados, e alça dourada em formato de corrente com detalhe verde, em fundo verde limão.",
-    "descricao": "Bolsas"
+    "src": "/assets/images/categorias/categoria-misterio.png",
+    "alt": "box de livro de mistério e suspense",
+    "descricao": "Mistério e Suspense"
   },
   {
     "id": 3,
-    "src": "/assets/images/categorias/categoria-calcados.png",
-    "alt": "Par de tênis unissex com cor predominante branca e traços na cores laranja, azul, verde e cadarço vermelho, em fundo verde limão.",
-    "descricao": "Calçados"
+    "src": "/assets/images/categorias/categoria-romance.png",
+    "alt": "box de livro de romance",
+    "descricao": "Romance"
   },
   {
     "id": 4,
-    "src": "/assets/images/categorias/categoria-calcas.png",
-    "alt": "Quatro calças jeans dobradas e organizadas uma acima da outra, em fundo verde limão.",
-    "descricao": "Calças"
+    "src": "/assets/images/categorias/categoria-biografia.png",
+    "alt": "box de livro de biografia",
+    "descricao": "Biografia"
   },
   {
     "id": 5,
-    "src": "/assets/images/categorias/categoria-casacos.png",
-    "alt": "Casaco masculino na cor marrom em fundo verde limão.",
-    "descricao": "Casacos"
+    "src": "/assets/images/categorias/categoria-arte.png",
+    "alt": "box de livro de arte e fotografia.",
+    "descricao": "Arte e fotografia"
   },
   {
     "id": 6,
-    "src": "/assets/images/categorias/categoria-oculos.png",
-    "alt": "Óculos de Sol com lentes arredondadas e armação dourada, em fundo verde limão.",
-    "descricao": "Óculos"
+    "src": "/assets/images/categorias/categoria-culinaria.png",
+    "alt": "box de livro de culinária",
+    "descricao": "Culinária"
   }
 ]
