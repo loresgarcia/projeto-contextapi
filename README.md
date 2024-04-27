@@ -1,4 +1,4 @@
-# Meteora - E-commerce de Moda
+# Livrorama - Loja de livros
 
 O Meteora é um projeto de e-commerce em fase de desenvolvimento inicial. Este README fornece informações sobre o projeto, suas funcionalidades e como executá-lo em seu ambiente local.
 
