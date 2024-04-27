@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "src": "/assets/x-diamond.svg",
+    "src": "/assets/pix.svg",
     "alt": "ícone de um uma figura que lembra um diamante",
     "titulo": "PAGUE PELO PIX",
     "descricao": "Ganhe 5% OFF em pagamentos via PIX"
@@ -15,7 +15,7 @@
   },
   {
     "id": "3",
-    "src": "/assets/flower-1.svg",
+    "src": "/assets/gift-card.svg",
     "alt": "ícone de um uma figura que lembra uma flor",
     "titulo": "SUSTENTABILIDADE",
     "descricao": "Moda responsável, que respeita o meio ambiente."

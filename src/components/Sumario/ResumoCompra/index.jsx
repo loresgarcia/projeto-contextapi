@@ -17,8 +17,8 @@ const ResumoCompra = () => {
       </div>
       <div className="divisor__verde my-3" />
       <div className="d-flex flex-row justify-content-between">
-        <p className="verde-limao m-0">Total</p>
-        <ValorFormatado className="verde-limao" valor={valorTotal} />
+        <p className="laranja m-0">Total</p>
+        <ValorFormatado className="laranja" valor={valorTotal} />
       </div>
     </div>
   );

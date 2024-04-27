@@ -15,7 +15,7 @@ const BotaoCarrinho = ({ className, quantidadeProdutos }) => {
     >
       <img src={imagemCarrinho} alt="ícone de um carrinho de supermercado" />
       {quantidadeProdutos !== 0 && (
-        <span className="badge verde-limao">{quantidadeProdutos}</span>
+        <span className="badge laranja">{quantidadeProdutos}</span>
       )}
     </button>
   );

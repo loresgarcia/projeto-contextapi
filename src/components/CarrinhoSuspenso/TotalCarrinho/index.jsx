@@ -9,7 +9,7 @@ const TotalCarrinho = ({ valorTotalCarrinho }) => {
   return (
     <div className="d-flex flex-column gap-3">
       <div className="d-flex flex-row justify-content-between">
-        <p className="verde-limao m-0">Total</p>
+        <p className="laranja m-0">Total</p>
         <ValorFormatado valor={valorTotalCarrinho} />
       </div>
       <div className="d-flex flex-column flex-md-row gap-2 mx-1 mx-lg-0 justify-content-between justify-content-md-evelyn">
