@@ -18,18 +18,18 @@
 }
 
 .botao-lilas {
-  background-color: #9353ff;
+  background-color: #750E21;
 }
 
 .btn-outline-purple {
-  border-color: #9353ff;
-  color: #9353ff;
+  border-color: #750E21;
+  color:#750E21;
 }
 
 .btn-tertiary {
   background-color: transparent;
-  border-color: #9353ff;
-  color: #9353ff;
+  border-color: #750E21;
+  color: #750E21;
 }
 
 .laranja {
@@ -72,7 +72,7 @@
 
 .divisor__verde {
   height: 2px;
-  background-color: #daff01;
+  background-color: #750E21;
 }
 
 .detalhe__compra {
