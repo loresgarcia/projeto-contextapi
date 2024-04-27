@@ -1,6 +1,6 @@
 # Livrorama - Loja de livros
 
-O Meteora é um projeto de e-commerce em fase de desenvolvimento inicial. Este README fornece informações sobre o projeto, suas funcionalidades e como executá-lo em seu ambiente local.
+O Livrorama é um projeto de e-commerce em fase de desenvolvimento inicial. Este README fornece informações sobre o projeto, suas funcionalidades e como executá-lo em seu ambiente local.
 
 ![GIF da aplicação em execução](livrorama.gif)
 
@@ -13,7 +13,6 @@ Neste estágio inicial de desenvolvimento, o Meteora possui as seguintes funcion
 - Visualizar a página do carrinho
 - Deletar itens do carrinho
 
-O [Figma dessa aplicação você encontra aqui](https://www.figma.com/file/R5ATrWK1nC44Eyeo6XZXlr/Meteora---Context-API?node-id=2386%3A2430&mode=dev).
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
