@@ -39,7 +39,7 @@ Para executar o projeto Meteora em seu ambiente local, siga estas etapas:
 4. Navegue até a pasta em questão via terminal (cmd):
 
 ```bash
-cd repo-meteora
+cd projeto-contextapi
 ```
 
 5. Instale as dependências usando o npm:
